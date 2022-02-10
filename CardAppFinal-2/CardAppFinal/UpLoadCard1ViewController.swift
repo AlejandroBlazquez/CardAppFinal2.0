@@ -52,7 +52,7 @@ class UpCard1ViewController: UIViewController, UIPickerViewDelegate, UIPickerVie
     
     let brands: [Brand] = [
         Brand(name: "Magic", logo: "Magic-logo.svg"),
-        Brand(name: "Pokémon", logo: "Pokémon.svg"),
+        Brand(name: "Pokémon", logo: "Pokemon.svg"),
         Brand(name: "Yu-gi-oh!", logo: "yu-gi-oh!.png")
     ]
     
