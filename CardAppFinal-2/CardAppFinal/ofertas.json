@@ -1,0 +1,93 @@
+[
+{
+    "id": 1,
+    "name": "Luz Verdadera",
+    "edition": "edicion fuego",
+    "quantity": 2,
+    "description": "asdasdasdas",
+    "price": 2.7,
+    "lang": "ENG",
+    "state": "NM"
+},{
+    "id": 2,
+    "name": "Luz Verdadera",
+    "edition": "edicion fuego",
+    "quantity": 2,
+    "description": "asdasdasdas",
+    "price": 2.7,
+    "lang": "ENG",
+    "state": "NM"
+},{
+    "id": 3,
+    "name": "Luz Verdadera",
+    "edition": "edicion fuego",
+    "quantity": 2,
+    "description": "asdasdasdas",
+    "price": 2.7,
+    "lang": "ENG",
+    "state": "NM"
+},{
+    "id": 4,
+    "name": "Luz Verdadera",
+    "edition": "edicion fuego",
+    "quantity": 2,
+    "description": "asdasdasdas",
+    "price": 2.7,
+    "lang": "ENG",
+    "state": "NM"
+},{
+    "id": 4,
+    "name": "Luz Verdadera",
+    "edition": "edicion fuego",
+    "quantity": 2,
+    "description": "asdasdasdas",
+    "price": 2.7,
+    "lang": "ENG",
+    "state": "NM"
+},{
+    "id": 5,
+    "name": "Luz Verdadera",
+    "edition": "edicion fuego",
+    "quantity": 2,
+    "description": "asdasdasdas",
+    "price": 2.7,
+    "lang": "ENG",
+    "state": "NM"
+},{
+    "id": 6,
+    "name": "Luz Verdadera",
+    "edition": "edicion fuego",
+    "quantity": 2,
+    "description": "asdasdasdas",
+    "price": 2.7,
+    "lang": "ENG",
+    "state": "NM"
+},{
+    "id": 7,
+    "name": "Luz Verdadera",
+    "edition": "edicion fuego",
+    "quantity": 2,
+    "description": "asdasdasdas",
+    "price": 2.7,
+    "lang": "ENG",
+    "state": "NM"
+},{
+    "id": 8,
+    "name": "Luz Verdadera",
+    "edition": "edicion fuego",
+    "quantity": 2,
+    "description": "asdasdasdas",
+    "price": 2.7,
+    "lang": "ENG",
+    "state": "NM"
+},{
+    "id": 9,
+    "name": "Luz Verdadera",
+    "edition": "edicion fuego",
+    "quantity": 2,
+    "description": "asdasdasdas",
+    "price": 2.7,
+    "lang": "ESP",
+    "state": "NM"
+}
+]

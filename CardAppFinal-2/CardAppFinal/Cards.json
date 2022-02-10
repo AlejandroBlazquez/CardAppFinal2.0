@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "name": "Last-Minute Chopping",
+        "price": 1.5,
+        "imageURL": "Last-Minute Chopping"
+    },
+    {
+        "id": 2,
+        "name": "Colmillothrag",
+        "price": 0.6,
+        "imageURL": "Colmillothrag"
+    },
+    {
+        "id": 3,
+        "name": "Despertar a los muertos",
+        "price": 3.3,
+        "imageURL": "Despertar a los muertos"
+    },
+    {
+        "id": 4,
+        "name": "Efara, diosa de la polis",
+        "price": 1.0,
+        "imageURL": "Efara, diosa de la polis"
+    },
+    {
+        "id": 5,
+        "name": "Black Lotus",
+        "price": 9.8,
+        "imageURL": "Black Lotus"
+    },
+    
+    
+    {
+        "id": 6,
+        "name": "Bulbasaur",
+        "price": 50.4,
+        "imageURL": "Bulbasaur"
+    },
+    {
+        "id": 7,
+        "name": "Charizard",
+        "price": 10.2,
+        "imageURL": "Charizard"
+    },
+    {
+        "id": 8,
+        "name": "Eevee",
+        "price": 3.9,
+        "imageURL": "Eevee"
+    },
+    {
+        "id": 9,
+        "name": "Pikachu",
+        "price": 2.1,
+        "imageURL": "Pikachu"
+    },
+    {
+        "id": 10,
+        "name": "Salamence",
+        "price": 1.1,
+        "imageURL": "Salamence"
+    },
+    
+    
+    {
+        "id": 11,
+        "name": "Dragón Blanco de Ojos Azules",
+        "price": 99.99,
+        "imageURL": "Dragón Blanco de Ojos Azules"
+    },
+    {
+        "id": 12,
+        "name": "Dragón de Polvo de Estrellas",
+        "price": 6.2,
+        "imageURL": "Dragón de Polvo de Estrellas"
+    },
+    {
+        "id": 13,
+        "name": "Exodia, el Prohibido",
+        "price": 7.5,
+        "imageURL": "Exodia, el Prohibido"
+    },
+    {
+        "id": 14,
+        "name": "Mago Oscuro",
+        "price": 0.25,
+        "imageURL": "Mago Oscuro"
+    },
+    {
+        "id": 15,
+        "name": "Luz Verdadera",
+        "price": 2.7,
+        "imageURL": "Luz Verdadera"
+    }
+  
+]
