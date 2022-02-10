@@ -1,0 +1,34 @@
+
+[
+{
+    "id": 11,
+    "name": "Dragón Blanco de Ojos Azules",
+    "price": 99.99,
+    "imageURL": "Dragón Blanco de Ojos Azules"
+},
+{
+    "id": 12,
+    "name": "Dragón de Polvo de Estrellas",
+    "price": 6.2,
+    "imageURL": "Dragón de Polvo de Estrellas"
+},
+{
+    "id": 13,
+    "name": "Exodia, el Prohibido",
+    "price": 7.5,
+    "imageURL": "Exodia, el Prohibido"
+},
+{
+    "id": 14,
+    "name": "Mago Oscuro",
+    "price": 0.25,
+    "imageURL": "Mago Oscuro"
+},
+{
+    "id": 15,
+    "name": "Luz Verdadera",
+    "price": 2.7,
+    "imageURL": "Luz Verdadera"
+}
+
+]

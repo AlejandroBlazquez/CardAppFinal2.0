@@ -1,0 +1,33 @@
+[
+    
+    {
+        "id": 6,
+        "name": "Bulbasaur",
+        "price": 50.4,
+        "imageURL": "Bulbasaur"
+    },
+    {
+        "id": 7,
+        "name": "Charizard",
+        "price": 10.2,
+        "imageURL": "Charizard"
+    },
+    {
+        "id": 8,
+        "name": "Eevee",
+        "price": 3.9,
+        "imageURL": "Eevee"
+    },
+    {
+        "id": 9,
+        "name": "Pikachu",
+        "price": 2.1,
+        "imageURL": "Pikachu"
+    },
+    {
+        "id": 10,
+        "name": "Salamence",
+        "price": 1.1,
+        "imageURL": "Salamence"
+    }
+    ]

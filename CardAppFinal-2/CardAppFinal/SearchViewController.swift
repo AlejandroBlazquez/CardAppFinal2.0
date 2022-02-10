@@ -21,7 +21,7 @@ class SearchViewController: UIViewController {
         
         switch nameSegmentedController.selectedSegmentIndex {
         case 0:
-            imageLogo.image = UIImage(named: "Pokémon.svg")
+            imageLogo.image = UIImage(named: "Pokemon.svg")
         case 1:
             imageLogo.image = UIImage(named: "Magic-logo.svg")
         case 2:

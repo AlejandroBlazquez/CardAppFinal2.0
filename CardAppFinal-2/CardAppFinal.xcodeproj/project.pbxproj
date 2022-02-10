@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3302952127B5986B0031734C /* Magic.json in Resources */ = {isa = PBXBuildFile; fileRef = 3302952027B5986B0031734C /* Magic.json */; };
+		3302952327B598790031734C /* Yugioh.json in Resources */ = {isa = PBXBuildFile; fileRef = 3302952227B598790031734C /* Yugioh.json */; };
 		330937C127B18F72001D9341 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 330937C027B18F72001D9341 /* Assets.xcassets */; };
 		330937C327B19049001D9341 /* UpLoadCard1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330937C227B19049001D9341 /* UpLoadCard1ViewController.swift */; };
 		330937C527B19581001D9341 /* cesar.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 330937C427B19581001D9341 /* cesar.storyboard */; };
@@ -30,11 +32,13 @@
 		33ED2E1527AAF31000F480ED /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33ED2E0927AAF30F00F480ED /* HomeViewController.swift */; };
 		33ED2E1627AAF31000F480ED /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33ED2E0A27AAF30F00F480ED /* LoginViewController.swift */; };
 		33ED2E1727AAF31000F480ED /* Carta.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33ED2E0B27AAF31000F480ED /* Carta.swift */; };
-		33ED2E1827AAF31000F480ED /* Cards.json in Resources */ = {isa = PBXBuildFile; fileRef = 33ED2E0C27AAF31000F480ED /* Cards.json */; };
+		33ED2E1827AAF31000F480ED /* Pokemon.json in Resources */ = {isa = PBXBuildFile; fileRef = 33ED2E0C27AAF31000F480ED /* Pokemon.json */; };
 		33ED2E1C27AAF3DB00F480ED /* UserStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33ED2E1B27AAF3DB00F480ED /* UserStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3302952027B5986B0031734C /* Magic.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Magic.json; sourceTree = "<group>"; };
+		3302952227B598790031734C /* Yugioh.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Yugioh.json; sourceTree = "<group>"; };
 		330937C027B18F72001D9341 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		330937C227B19049001D9341 /* UpLoadCard1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpLoadCard1ViewController.swift; sourceTree = "<group>"; };
 		330937C427B19581001D9341 /* cesar.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = cesar.storyboard; sourceTree = "<group>"; };
@@ -60,7 +64,7 @@
 		33ED2E0927AAF30F00F480ED /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		33ED2E0A27AAF30F00F480ED /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		33ED2E0B27AAF31000F480ED /* Carta.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Carta.swift; sourceTree = "<group>"; };
-		33ED2E0C27AAF31000F480ED /* Cards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cards.json; sourceTree = "<group>"; };
+		33ED2E0C27AAF31000F480ED /* Pokemon.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Pokemon.json; sourceTree = "<group>"; };
 		33ED2E1B27AAF3DB00F480ED /* UserStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = UserStoryboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -105,7 +109,9 @@
 				330937C027B18F72001D9341 /* Assets.xcassets */,
 				33ED2DFF27AAF2DA00F480ED /* Main.storyboard */,
 				33ED2E1B27AAF3DB00F480ED /* UserStoryboard.storyboard */,
-				33ED2E0C27AAF31000F480ED /* Cards.json */,
+				33ED2E0C27AAF31000F480ED /* Pokemon.json */,
+				3302952027B5986B0031734C /* Magic.json */,
+				3302952227B598790031734C /* Yugioh.json */,
 				3327E8E527B2FCC000CD3AA3 /* ofertas.json */,
 				33ED2E0B27AAF31000F480ED /* Carta.swift */,
 				330937C227B19049001D9341 /* UpLoadCard1ViewController.swift */,
@@ -183,8 +189,10 @@
 			files = (
 				33ED2DF827AAF2BD00F480ED /* LaunchScreen.storyboard in Resources */,
 				330937C927B1959A001D9341 /* Storyboard3.storyboard in Resources */,
-				33ED2E1827AAF31000F480ED /* Cards.json in Resources */,
+				3302952127B5986B0031734C /* Magic.json in Resources */,
+				33ED2E1827AAF31000F480ED /* Pokemon.json in Resources */,
 				33ED2E1C27AAF3DB00F480ED /* UserStoryboard.storyboard in Resources */,
+				3302952327B598790031734C /* Yugioh.json in Resources */,
 				330937C727B1958C001D9341 /* Storyboard2.storyboard in Resources */,
 				33ED2E0027AAF2DA00F480ED /* Main.storyboard in Resources */,
 				3327E8E627B2FCC000CD3AA3 /* ofertas.json in Resources */,
