@@ -19,8 +19,8 @@ class UpCard1ViewController: UIViewController, UIPickerViewDelegate, UIPickerVie
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        brandsName.delegate = self
-        brandsName.dataSource = self
+       // brandsName.delegate = self
+       // brandsName.dataSource = self
     }
     
     func numberOfComponents(in pickerView: UIPickerView) -> Int {

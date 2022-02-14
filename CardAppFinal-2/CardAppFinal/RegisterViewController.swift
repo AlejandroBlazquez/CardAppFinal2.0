@@ -16,7 +16,7 @@ class RegisterViewController: UIViewController {
         super.viewDidLoad()
         
         
-      
+        registerButton.layer.cornerRadius = 20
         
         
     }
